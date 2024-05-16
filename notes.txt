@@ -1,0 +1,16 @@
+Version-Control: This is the process where we can save a version of our code file and go back to it if we accidentally screw up the code in the future.
+
+Working Directory: This is the folder we are currently in.
+
+Staging area: These are files that versions will be created for if changes are made to them at any time.
+
+Git add: This command adds files to the staging area.
+
+Git add + fullstop: This command adds all the files in the current directory to the staging area.
+
+Git Status: This command shows the files that have been added to the staging area.
+
+Git Commit -m: This command records the state of the file at a particular point in time and a commit message,
+along with it.
+Git log: This commad shows the history of all commited files.
+
