@@ -21,5 +21,10 @@ Git checkout: This command returns a file to the last version that was commited.
 
 The git process: Working Directory -> Staging area -> Git Repository.
 
-Git remote Origin (url of the remote git repository): This command moves our local git repository to a remote repository on Github where other developers can access it.
+Git remote add Origin (url of the remote git repository): This command moves our local git repository to a remote repository on Github where other developers can access it.
+
+git push -u origin main: This command pushes our local git repository to our remote repository and saves it in the Main branch.
+
+q : quit.
+
 
