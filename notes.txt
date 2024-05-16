@@ -1,6 +1,6 @@
 Version-Control: This is the process where we can save a version of our code file and go back to it if we accidentally screw up the code in the future.
 
-Working Directory: This is the folder we are currently in.
+Working Directory: This is the folder that we initialise git.
 
 Staging area: These are files that versions will be created for if changes are made to them at any time.
 
@@ -12,5 +12,14 @@ Git Status: This command shows the files that have been added to the staging are
 
 Git Commit -m: This command records the state of the file at a particular point in time and a commit message,
 along with it.
+
 Git log: This commad shows the history of all commited files.
+
+Git diff (The name of the file): This command shows the difference between the previous version of a file and the current version.
+
+Git checkout: This command returns a file to the last version that was commited.
+
+The git process: Working Directory -> Staging area -> Git Repository.
+
+Git remote Origin (url of the remote git repository): This command moves our local git repository to a remote repository on Github where other developers can access it.
 
